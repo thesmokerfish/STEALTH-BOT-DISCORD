@@ -11,9 +11,9 @@ const allowedUserIDs = ['123'];
 // Paramètres pour le mode "stealth"
 const stealthMode = {
   enabled: false,
-  originalAvatarURL: '', // Photo de profil orignale
+  originalAvatarURL: '', // Photo de profil orignale (url)
   originalUsername: '', // Pseudo original
-  newAvatarURL: '', // Nouvelle photo de profil
+  newAvatarURL: '', // Nouvelle photo de profil (url)
   newUsername: ''  // Nouveau nom d'utilisateur
 };
 
