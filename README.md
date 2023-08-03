@@ -1,6 +1,9 @@
 # Stealth Bot - Documentation
 Stealth Bot est un bot Discord en Node.js qui peut activer le mode "stealth" en changeant le nom d'utilisateur et la photo de profil du bot Discord. Le mode "stealth" peut être activé en utilisant la commande +stealth on, et désactivé en utilisant la commande +stealth off. Le bot ne répondra qu'aux utilisateurs dont les ID sont autorisés à l'aide de la commande.
 
+![image](https://github.com/thesmokerfish/STEALTH-BOT-DISCORD/assets/78930118/e5e39f86-5346-40bc-bf65-0ca3421877b3)
+
+
 ## Commandes ✨
 - +help : Affiche la liste des commandes disponibles.
 - +stealth on : Active le mode "stealth" (change le nom d'utilisateur et la photo de profil).
